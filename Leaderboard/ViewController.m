@@ -10,7 +10,7 @@
 
 // TODO: Refactor the code
 // TODO: Insert comments where needed
-// TODO: Player selection
+// TODO: When moving the slider thumb -> show the table changing in real time
 
 // MARK: -
 
